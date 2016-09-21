@@ -21,7 +21,7 @@ background-size: cover;
 
 h1{
 font-family: 'Shadows Into Light', cursive;
-color: white;
+color: black;
 margin-left: 10px;
 font-size: 60px;
 text-align: center; 
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: Blue;
+background: gray;
 border-radius: 10px;
 
 }
@@ -94,7 +94,7 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: maroon;
+background: #ff5900;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
