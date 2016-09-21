@@ -87,7 +87,7 @@ template {
  */
 
 a {
-  background-color: blue;
+  background-color: #006680;
 }
 
 /**
@@ -124,7 +124,7 @@ strong {
  */
 
 dfn {
-  font-style: italic;
+  font-style: Italic;
 }
 
 /**

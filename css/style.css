@@ -20,23 +20,23 @@ background-size: cover;
 }
 
 h1{
-font-family: 'Shadows Into Light', cursive;
-color: black;
+font-family: 'ansagna new bold', arial;
+color: Black;
 margin-left: 10px;
-font-size: 60px;
+font-size: 40px;
 text-align: center; 
 }
 
 h2{
-font-family: 'Indie Flower', cursive;
-color: white;
+font-family: 'Franklin gothic book', arial;
+color: Black;
 margin-left: 10px;
 font-size: 20px;
-text-align: left; 
+text-align: center; 
 }
 
 h3{
-font-family: 'Shadows Into Light', cursive;;
+font-family: 'Shadows Into Light', arial;;
 color: white;
 font-size: 30px;
 text-align: center; 
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: gray;
+background: #006680;
 border-radius: 10px;
 
 }
@@ -74,7 +74,7 @@ li{
 
 section{
 	width: 700px;
-	background: gray;
+	background: #B3B3B3;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
@@ -104,7 +104,7 @@ margin-bottom: 20px;
 p{
 
 	font-size: 15px;
-	font-weight: bolder;
+	font-weight: Shadows Into Light;
 	line-height: 24px;
 	padding: 10px;
 	text-align: justify;
